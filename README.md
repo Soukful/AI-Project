@@ -1,2 +1,3 @@
 # AI-Project
-Credit-Card Fraud detection model
+Fraud Detection in insurance claims.
+

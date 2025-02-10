@@ -1,7 +1,3 @@
-Your `README.md` file should provide a clear overview of the project, its purpose, dataset details, preprocessing steps, and how to run the code. Here's a structured template you can use:  
-
----
-
 # 🚀 Fraud Detection in Insurance Claims  
 
 ## 📌 Project Overview  

@@ -33,7 +33,6 @@ Several preprocessing steps were applied to clean and prepare the dataset for mo
 │   ├── preprocess.py  # Data preprocessing script
 │   ├── model_train.py  # Model training and evaluation
 │── README.md  # Project documentation
-│── requirements.txt  # Dependencies
 ```
 ## 📈 Expected Outcome  
 The project aims to train a machine learning model that can effectively classify fraudulent and non-fraudulent insurance claims. Performance metrics such as accuracy, precision, recall, and F1-score will be evaluated.  

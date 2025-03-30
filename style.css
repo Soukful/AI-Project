@@ -1,0 +1,59 @@
+body{
+    background-image: url("9.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+h1{
+    color: rgba(236, 236, 236, 0.949);
+    width:33.33%;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+form{
+    background-color: rgb(12, 3, 70);
+    border-radius: 3px;
+    color:bisque;
+    height:500px;
+    width:50.33%;
+    margin-left: 25%;
+    margin-top: 6%;
+    
+}
+form div{
+    display:inline-block;
+    margin-top: 15%;
+    margin:25px;
+
+}
+.class1 label{
+   display: block;
+   flex-direction: column;
+   justify-content: space-evenly;
+   padding:5px;
+   margin:5px;
+  
+  
+}
+.class2 label{
+    display: block;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 5px;;
+    margin:5px;
+}
+button{
+    margin-left: 50%;
+    background-color: white; /* Blue color */
+    color: rgb(4, 22, 95); /* Text color */
+    padding: 10px 20px;
+    border:5px;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer; /* Hover effect ke liye */
+}
+button:hover {
+    background-color: #277db1; /* Darker blue */
+    transition: 0.3s ease-in-out;
+}
